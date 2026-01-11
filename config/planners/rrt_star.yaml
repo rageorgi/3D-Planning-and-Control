@@ -5,7 +5,7 @@ grid:
 interpolation: "Quintic"
 obstacle_inflation_ratio: 1.5
 propagation_distance_m: 0.5
-max_iterations: 5000
+max_iterations: 8000
 goal_sample_rate: 0.15
 goal_threshold_radius: 0.1
 collision_segment_distance: 0.01  #Also min distance for a new node to be added

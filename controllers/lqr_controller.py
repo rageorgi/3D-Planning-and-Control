@@ -201,7 +201,6 @@ class LQR_Controller(Controller):
         return state, control.squeeze()
     
 
-
     def get_full_reference_estimate(self, pos_des, vel_des, acc_des, jerk_des, snap_des):
         # Creates a full state reference and a control reference estimate
 

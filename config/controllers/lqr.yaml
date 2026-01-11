@@ -1,4 +1,4 @@
-rates_hz: 10
+rates_hz: 20
 state_cost_multiplier: 10.0
 terminal_state_cost_multiplier: 10.0
 control_cost_multiplier: 0.1
