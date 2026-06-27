@@ -15,6 +15,7 @@ config.yaml
 # /path/to/unwanted/file_or_directory
 Old Files/
 Test Files/
+Previous Version/
 
 #ignore temp files
 *.tmp
